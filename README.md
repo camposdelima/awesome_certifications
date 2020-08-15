@@ -55,3 +55,19 @@ https://google.qwiklabs.com/quests/23
 
 **Google - GCP Cloud Engineer - $125:**  
 https://cloud.google.com/certification/cloud-engineer
+
+# Management and Governance
+**Scrum.org - Scrum Master - $150:**  
+https://www.scrum.org/node/217
+
+**IASSC - Six Sigma Green Belt  - $295:**  
+https://orders.iassc.org/ProductDetails.asp?ProductCode=ODWB-GBV
+
+**ISACA - COBIT FOUNDATION  - $175:**  
+https://www.youracclaim.com/org/isaca/badge/cobit-2019-foundation-certificate
+
+**PEOPLECERT/AXELOS - ITIL 4 - USA $363 / BR $342.00:**  
+https://www.youracclaim.com/org/axelos/badge/itil-4-foundation-cpd
+
+
+
