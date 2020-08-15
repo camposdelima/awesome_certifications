@@ -7,10 +7,10 @@ In some prices has popular and easy-to-find vouchers code being considered.
 **EnterpriseDB - PostgreSQL - $250:**  
 https://www.youracclaim.com/org/enterprisedb/badge/edb-certified-associate-postgres-advanced-server-12
 
-**Oracle - MySQL - $245/R$791:**  
+**Oracle - MySQL - USA $245 / BR R$791:**  
 https://www.youracclaim.com/org/oracle/badge/oracle-certified-professional-mysql-8-0-database-administrator
 
-**Microsoft - SQL Server+Azure - $100:**  
+**Microsoft - SQL Server+Azure - USA $165 / BR $100:**  
 https://www.youracclaim.com/org/microsoft-certification/badge/microsoft-certified-azure-database-administrator-associate
 
 ## Ops
@@ -35,11 +35,11 @@ https://www.youracclaim.com/org/microsoft-certification/badge/exam-483-programmi
 
 ## Cloud
 ### Azure
-**Microsoft - Azure Fundamentals - $60:**  
+**Microsoft - Azure Fundamentals - USA $99 / BR $60:**  
 https://www.youracclaim.com/org/microsoft-certification/badge/microsoft-certified-azure-fundamentals
 * Free: https://ourcloudnetwork.com/how-to-get-a-free-az-900-exam-voucher/
 
-**Microsoft - Azure - $100:**  
+**Microsoft - Azure - USA $165 / BR $100:**  
 https://www.youracclaim.com/org/microsoft-certification/badge/az-301-microsoft-azure-architect-design
 
 ### AWS
