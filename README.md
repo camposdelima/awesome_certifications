@@ -1,6 +1,6 @@
 # awesome_certifications
 A useful list to get some IT certifications and exams.
-In some prices has popular and easy-to-find vouchers code being considered.
+In some prices has popular and easy-to-find vouchers codes being considered.
 
 ## Databases
 
