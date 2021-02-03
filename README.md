@@ -40,13 +40,13 @@ https://www.youracclaim.com/org/microsoft-certification/badge/microsoft-certifie
 * Free: https://ourcloudnetwork.com/how-to-get-a-free-az-900-exam-voucher/
 
 **Microsoft - Azure - USA $165 / BR $100:**  
-https://www.youracclaim.com/org/microsoft-certification/badge/az-301-microsoft-azure-architect-design
+https://www.youracclaim.com/org/microsoft-certification/badge/az-304-microsoft-azure-architect-design
 
 ### AWS
-**AWS - AWS Essentials - Free:**  
-https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/
+**AWS - AWS Certified Cloud Practitioner - $100:**  
+https://www.youracclaim.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner
 
-**AWS - AWS Architect - $300:**  
+**AWS - AWS Architect - $150:**  
 https://www.youracclaim.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate
 
 ### GCP
